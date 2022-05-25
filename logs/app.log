@@ -1,0 +1,46 @@
+2022-05-25 15:46:29,745 INFO c.l.l.Log4jSpringbootApplicationTests [main] Starting Log4jSpringbootApplicationTests using Java 15 on AIPL6679LT14505 with PID 24960 (started by hselvaraj in d:\Workspace\java\log4j-springboot\log4j-springboot)
+2022-05-25 15:46:29,771 DEBUG c.l.l.Log4jSpringbootApplicationTests [main] Running with Spring Boot v2.7.0, Spring v5.3.20
+2022-05-25 15:46:29,773 INFO c.l.l.Log4jSpringbootApplicationTests [main] No active profile set, falling back to 1 default profile: "default"
+2022-05-25 15:46:32,402 INFO c.l.l.Log4jSpringbootApplicationTests [main] Started Log4jSpringbootApplicationTests in 3.26 seconds (JVM running for 5.223)
+2022-05-25 15:46:42,830 INFO c.l.l.Log4jSpringbootApplication [restartedMain] Starting Log4jSpringbootApplication using Java 15 on AIPL6679LT14505 with PID 25616 (D:\Workspace\java\log4j-springboot\log4j-springboot\target\classes started by hselvaraj in d:\Workspace\java\log4j-springboot\log4j-springboot)
+2022-05-25 15:46:42,846 DEBUG c.l.l.Log4jSpringbootApplication [restartedMain] Running with Spring Boot v2.7.0, Spring v5.3.20
+2022-05-25 15:46:42,848 INFO c.l.l.Log4jSpringbootApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2022-05-25 15:46:45,815 INFO c.l.l.Log4jSpringbootApplication [restartedMain] Started Log4jSpringbootApplication in 3.426 seconds (JVM running for 4.624)
+2022-05-25 15:46:51,436 DEBUG c.l.l.c.Log4jController [http-nio-8080-exec-2] Hello from Log4j 2 - num : [1, 2, 3, 4, 5]
+2022-05-25 15:49:58,322 INFO c.l.l.Log4jSpringbootApplication [restartedMain] Starting Log4jSpringbootApplication using Java 15 on AIPL6679LT14505 with PID 25616 (D:\Workspace\java\log4j-springboot\log4j-springboot\target\classes started by hselvaraj in d:\Workspace\java\log4j-springboot\log4j-springboot)
+2022-05-25 15:49:58,324 DEBUG c.l.l.Log4jSpringbootApplication [restartedMain] Running with Spring Boot v2.7.0, Spring v5.3.20
+2022-05-25 15:49:58,327 INFO c.l.l.Log4jSpringbootApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2022-05-25 15:49:59,393 INFO c.l.l.Log4jSpringbootApplication [restartedMain] Started Log4jSpringbootApplication in 1.222 seconds (JVM running for 198.202)
+2022-05-25 15:50:00,979 INFO c.l.l.Log4jSpringbootApplication [restartedMain] Starting Log4jSpringbootApplication using Java 15 on AIPL6679LT14505 with PID 25616 (D:\Workspace\java\log4j-springboot\log4j-springboot\target\classes started by hselvaraj in d:\Workspace\java\log4j-springboot\log4j-springboot)
+2022-05-25 15:50:00,981 DEBUG c.l.l.Log4jSpringbootApplication [restartedMain] Running with Spring Boot v2.7.0, Spring v5.3.20
+2022-05-25 15:50:00,981 INFO c.l.l.Log4jSpringbootApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2022-05-25 15:50:01,560 INFO c.l.l.Log4jSpringbootApplication [restartedMain] Started Log4jSpringbootApplication in 0.698 seconds (JVM running for 200.37)
+2022-05-25 15:50:48,751 INFO c.l.l.Log4jSpringbootApplication [restartedMain] Starting Log4jSpringbootApplication using Java 15 on AIPL6679LT14505 with PID 26540 (D:\Workspace\java\log4j-springboot\log4j-springboot\target\classes started by hselvaraj in d:\Workspace\java\log4j-springboot\log4j-springboot)
+2022-05-25 15:50:48,761 DEBUG c.l.l.Log4jSpringbootApplication [restartedMain] Running with Spring Boot v2.7.0, Spring v5.3.20
+2022-05-25 15:50:48,762 INFO c.l.l.Log4jSpringbootApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2022-05-25 15:50:50,909 INFO c.l.l.Log4jSpringbootApplication [restartedMain] Started Log4jSpringbootApplication in 2.611 seconds (JVM running for 3.773)
+2022-05-25 15:51:27,833 INFO c.l.l.Log4jSpringbootApplication [restartedMain] Starting Log4jSpringbootApplication using Java 15 on AIPL6679LT14505 with PID 26540 (D:\Workspace\java\log4j-springboot\log4j-springboot\target\classes started by hselvaraj in d:\Workspace\java\log4j-springboot\log4j-springboot)
+2022-05-25 15:51:27,835 DEBUG c.l.l.Log4jSpringbootApplication [restartedMain] Running with Spring Boot v2.7.0, Spring v5.3.20
+2022-05-25 15:51:27,836 INFO c.l.l.Log4jSpringbootApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2022-05-25 15:51:28,239 INFO c.l.l.Log4jSpringbootApplication [restartedMain] Started Log4jSpringbootApplication in 0.482 seconds (JVM running for 41.104)
+2022-05-25 15:51:43,081 INFO c.l.l.Log4jSpringbootApplication [restartedMain] Starting Log4jSpringbootApplication using Java 15 on AIPL6679LT14505 with PID 26540 (D:\Workspace\java\log4j-springboot\log4j-springboot\target\classes started by hselvaraj in d:\Workspace\java\log4j-springboot\log4j-springboot)
+2022-05-25 15:51:43,081 DEBUG c.l.l.Log4jSpringbootApplication [restartedMain] Running with Spring Boot v2.7.0, Spring v5.3.20
+2022-05-25 15:51:43,082 INFO c.l.l.Log4jSpringbootApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2022-05-25 15:51:43,770 INFO c.l.l.Log4jSpringbootApplication [restartedMain] Started Log4jSpringbootApplication in 0.803 seconds (JVM running for 56.635)
+2022-05-25 15:51:48,473 INFO c.l.l.Log4jSpringbootApplication [restartedMain] Starting Log4jSpringbootApplication using Java 15 on AIPL6679LT14505 with PID 22204 (D:\Workspace\java\log4j-springboot\log4j-springboot\target\classes started by hselvaraj in d:\Workspace\java\log4j-springboot\log4j-springboot)
+2022-05-25 15:51:48,484 DEBUG c.l.l.Log4jSpringbootApplication [restartedMain] Running with Spring Boot v2.7.0, Spring v5.3.20
+2022-05-25 15:51:48,489 INFO c.l.l.Log4jSpringbootApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2022-05-25 15:51:52,076 INFO c.l.l.Log4jSpringbootApplication [restartedMain] Started Log4jSpringbootApplication in 4.049 seconds (JVM running for 5.329)
+2022-05-25 15:52:03,693 DEBUG c.l.l.c.Log4jController [http-nio-8080-exec-1] Hello from Log4j 2 - num : [1, 2, 3, 4, 5]
+2022-05-25 15:52:03,695 INFO c.l.l.c.Log4jController [http-nio-8080-exec-1] Try the Infor Log : Completicated Project Management
+2022-05-25 15:52:03,695 WARN c.l.l.c.Log4jController [http-nio-8080-exec-1] This is Get Number
+2022-05-25 15:52:03,696 ERROR c.l.l.c.Log4jController [http-nio-8080-exec-1] Exception has been handled
+2022-05-25 15:54:09,415 INFO c.l.l.Log4jSpringbootApplication [restartedMain] Starting Log4jSpringbootApplication using Java 15 on AIPL6679LT14505 with PID 1392 (D:\Workspace\java\log4j-springboot\log4j-springboot\target\classes started by hselvaraj in d:\Workspace\java\log4j-springboot\log4j-springboot)
+2022-05-25 15:54:09,441 DEBUG c.l.l.Log4jSpringbootApplication [restartedMain] Running with Spring Boot v2.7.0, Spring v5.3.20
+2022-05-25 15:54:09,450 INFO c.l.l.Log4jSpringbootApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2022-05-25 15:54:12,615 INFO c.l.l.Log4jSpringbootApplication [restartedMain] Started Log4jSpringbootApplication in 4.295 seconds (JVM running for 5.638)
+2022-05-25 15:54:22,581 INFO c.l.l.c.Log4jController [http-nio-8080-exec-1] I'm in Controller Class
+2022-05-25 15:54:22,582 DEBUG c.l.l.c.Log4jController [http-nio-8080-exec-1] Hello from Log4j 2 - num : [1, 2, 3, 4, 5]
+2022-05-25 15:54:22,583 INFO c.l.l.c.Log4jController [http-nio-8080-exec-1] Try the Infor Log : Completicated Project Management
+2022-05-25 15:54:22,584 WARN c.l.l.c.Log4jController [http-nio-8080-exec-1] This is Get Number
+2022-05-25 15:54:22,585 ERROR c.l.l.c.Log4jController [http-nio-8080-exec-1] Exception has been handled

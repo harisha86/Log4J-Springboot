@@ -1,0 +1,24 @@
+server :
+    port : 8089
+
+
+spring:
+    datasource:
+        url : jdbc:postgresql://localhost:5432/testdb
+        username : postgres
+        password : Snjv@01$
+    jpa :
+        properties :
+            hibernate   :
+                ddl-auto : update
+                dialect : org.hibernate.dialect.PostgreSQLDialect
+                jdbc :
+                    lob :
+                        non_contextual_creation : true
+
+
+Snjv :
+    app :
+        jwtSecret : bezkoderSecretKey
+        jwtExpirationMs : 86400000
+

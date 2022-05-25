@@ -1,0 +1,20 @@
+2022-05-25 15:56:21,673 INFO c.l.l.Log4jSpringbootApplication [restartedMain] Starting Log4jSpringbootApplication using Java 15 on AIPL6679LT14505 with PID 1392 (D:\Workspace\java\log4j-springboot\log4j-springboot\target\classes started by hselvaraj in d:\Workspace\java\log4j-springboot\log4j-springboot)
+2022-05-25 15:56:21,674 DEBUG c.l.l.Log4jSpringbootApplication [restartedMain] Running with Spring Boot v2.7.0, Spring v5.3.20
+2022-05-25 15:56:21,674 INFO c.l.l.Log4jSpringbootApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2022-05-25 15:56:22,386 INFO c.l.l.Log4jSpringbootApplication [restartedMain] Started Log4jSpringbootApplication in 0.822 seconds (JVM running for 135.408)
+2022-05-25 16:03:36,966 INFO c.l.l.Log4jSpringbootApplicationTests [main] Starting Log4jSpringbootApplicationTests using Java 15 on AIPL6679LT14505 with PID 20108 (started by hselvaraj in d:\Workspace\java\log4j-springboot\log4j-springboot)
+2022-05-25 16:03:36,989 DEBUG c.l.l.Log4jSpringbootApplicationTests [main] Running with Spring Boot v2.7.0, Spring v5.3.20
+2022-05-25 16:03:36,991 INFO c.l.l.Log4jSpringbootApplicationTests [main] No active profile set, falling back to 1 default profile: "default"
+2022-05-25 16:03:40,155 INFO c.l.l.Log4jSpringbootApplicationTests [main] Started Log4jSpringbootApplicationTests in 3.828 seconds (JVM running for 5.857)
+2022-05-25 16:08:39,924 INFO c.l.l.Log4jSpringbootApplication [restartedMain] Starting Log4jSpringbootApplication using Java 15 on AIPL6679LT14505 with PID 26680 (D:\Workspace\java\log4j-springboot\log4j-springboot\target\classes started by hselvaraj in d:\Workspace\java\log4j-springboot\log4j-springboot)
+2022-05-25 16:08:39,932 DEBUG c.l.l.Log4jSpringbootApplication [restartedMain] Running with Spring Boot v2.7.0, Spring v5.3.20
+2022-05-25 16:08:39,934 INFO c.l.l.Log4jSpringbootApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2022-05-25 16:08:41,977 INFO c.l.l.Log4jSpringbootApplication [restartedMain] Started Log4jSpringbootApplication in 2.461 seconds (JVM running for 3.659)
+2022-05-25 16:10:19,140 INFO c.l.l.Log4jSpringbootApplication [restartedMain] Starting Log4jSpringbootApplication using Java 15 on AIPL6679LT14505 with PID 26680 (D:\Workspace\java\log4j-springboot\log4j-springboot\target\classes started by hselvaraj in d:\Workspace\java\log4j-springboot\log4j-springboot)
+2022-05-25 16:10:19,141 DEBUG c.l.l.Log4jSpringbootApplication [restartedMain] Running with Spring Boot v2.7.0, Spring v5.3.20
+2022-05-25 16:10:19,141 INFO c.l.l.Log4jSpringbootApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2022-05-25 16:10:19,482 INFO c.l.l.Log4jSpringbootApplication [restartedMain] Started Log4jSpringbootApplication in 0.404 seconds (JVM running for 101.165)
+2022-05-25 16:11:13,658 INFO c.l.l.Log4jSpringbootApplication [restartedMain] Starting Log4jSpringbootApplication using Java 15 on AIPL6679LT14505 with PID 26680 (D:\Workspace\java\log4j-springboot\log4j-springboot\target\classes started by hselvaraj in d:\Workspace\java\log4j-springboot\log4j-springboot)
+2022-05-25 16:11:13,661 DEBUG c.l.l.Log4jSpringbootApplication [restartedMain] Running with Spring Boot v2.7.0, Spring v5.3.20
+2022-05-25 16:11:13,661 INFO c.l.l.Log4jSpringbootApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2022-05-25 16:11:14,102 INFO c.l.l.Log4jSpringbootApplication [restartedMain] Started Log4jSpringbootApplication in 0.529 seconds (JVM running for 155.784)
